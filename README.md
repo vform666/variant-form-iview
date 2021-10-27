@@ -154,9 +154,9 @@ body {
 
 VS Code插件：<a href="http://www.vform666.com/pages/plugin/" target="_blank">http://www.vform666.com/pages/plugin/</a>
 
-Github仓库：<a href="https://github.com/vform666/variant-form" target="_blank">https://github.com/vform666/variant-form</a>
+Github仓库：<a href="https://github.com/vform666/variant-form-iview" target="_blank">https://github.com/vform666/variant-form-iview</a>
 
-Gitee备份仓库：<a href="https://gitee.com/vdpadmin/variant-form" target="_blank">https://gitee.com/vdpadmin/variant-form</a>
+Gitee备份仓库：<a href="https://gitee.com/vdpadmin/variant-form-iview" target="_blank">https://gitee.com/vdpadmin/variant-form-iview</a>
 
 更新日志：<a href="http://www.vform666.com/pages/changelog/" target="_blank">http://www.vform666.com/pages/changelog/</a>
 
