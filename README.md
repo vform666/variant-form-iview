@@ -54,11 +54,11 @@ npm run lib-render-iview
 
 #### 1. 安装包
   ```bash
-  npm i vform-builds
+  npm i vform-iview-builds
   ```
 或
   ```bash
-  yarn add vform-builds
+  yarn add vform-iview-builds
   ```
 
 <br/>
@@ -69,10 +69,10 @@ import Vue from 'vue'
 import App from './App.vue'
 
 import ViewUI from 'view-design'  //引入iView库
-import VForm from 'vform-builds/dist/VFormDesigner-iView.umd.min.js'  //引入iView版本VForm库文件
+import VForm from 'vform-iview-builds'  //引入iView版本VForm库文件
 
 import 'view-design/dist/styles/iview.css'  //引入iView样式
-import 'vform-builds/dist/VFormDesigner-iView.css'  //引入VForm样式
+import 'vform-iview-builds/dist/VFormDesigner-iView.css'  //引入VForm样式
 
 Vue.config.productionTip = false
 
